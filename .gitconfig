@@ -1,6 +1,6 @@
 [user]
-	name = romkatv
-	email = roman.perepelitsa@gmail.com
+	name = romkatv-test
+	email = roman.perepelitsa+test@gmail.com
 [diff]
 	tool = meld
 [merge]
